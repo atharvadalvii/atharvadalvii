@@ -10,8 +10,8 @@ they quietly give wrong answers.
 A natural-language assistant for Western Australian mining. Ask about deposits, mining
 tenements, routes or drive-time areas and get answers with the results drawn on a map.
 OpenAI tool calling with no agent framework, live government data (MINEDEX and TENGRAPH),
-offline routing over an OpenStreetMap network, 76 tests, CI, and a Docker and Terraform
-deployment.
+offline routing over an OpenStreetMap network, 76 tests and CI, a live Streamlit demo,
+and a Docker image with Terraform for AWS.
 
 **[Smart Parking Management System](https://github.com/atharvadalvii/Smart_Parking_System)**
 A team-of-4 full-stack IoT platform: Flask REST API, Next.js and React web app, MQTT
